@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "name": "@types/earcut",
+  "type": "module",
+  "version": "3.0.9999",
+  "types": "./earcut.d.mts"
+}
